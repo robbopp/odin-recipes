@@ -1,4 +1,23 @@
-.h1{
+.title{
     font-family: 'Times New Roman', Times, serif;
     padding: 10px;
+    text-align: center;
+    font-size: 50px;
+}
+
+.page-title{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: left;
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+body{
+    background-color: aquamarine;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
